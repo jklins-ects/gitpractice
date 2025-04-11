@@ -32,4 +32,8 @@ Note: use ctrl+shift+v to preview md files in VS Code
 12. `git pull`
     Fetches **and merges** changes from the remote repository to your local one.
 13. `git fetch`
-    Downloads changes from the remote, but doesn't merge them automatically. 
+    Downloads changes from the remote, but doesn't merge them automatically.
+14. `git merge`
+    Merges changes from one branch into another.
+15. `git branch <branch_name>`
+    Create a new branch
