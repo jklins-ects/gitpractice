@@ -29,3 +29,5 @@ Note: use ctrl+shift+v to preview md files in VS Code
     `git remote add origin <link to repo>`
 11. `git push`
     Sends local commits to the remote repository.
+12. `git pull`
+    Fetches **and merges** changes from the remote repository to your local one. 
