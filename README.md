@@ -30,4 +30,6 @@ Note: use ctrl+shift+v to preview md files in VS Code
 11. `git push`
     Sends local commits to the remote repository.
 12. `git pull`
-    Fetches **and merges** changes from the remote repository to your local one. 
+    Fetches **and merges** changes from the remote repository to your local one.
+13. `git fetch`
+    Downloads changes from the remote, but doesn't merge them automatically. 
